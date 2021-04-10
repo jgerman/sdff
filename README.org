@@ -1,0 +1,5 @@
+* Just a little repo to hold my code while going through:
+
+[[https://mitpress.mit.edu/books/software-design-flexibility][Software Design For Flexibility]]
+
+I used mit-scheme with Geiser in emacs.
