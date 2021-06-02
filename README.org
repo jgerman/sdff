@@ -3,3 +3,6 @@
 [[https://mitpress.mit.edu/books/software-design-flexibility][Software Design For Flexibility]]
 
 I used mit-scheme with Geiser in emacs.
+
+Don't expect any order or working code here, I just don't want to lose work as I
+dip in and out of the book every few weeks.
